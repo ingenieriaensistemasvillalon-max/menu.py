@@ -1,3 +1,5 @@
+# practica1.py
+
 # 1. Captura de datos con input()
 nombre = input("Como te llamas?: ")
 print ("Hola",nombre)
