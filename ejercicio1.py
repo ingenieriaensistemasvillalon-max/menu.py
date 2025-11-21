@@ -16,8 +16,3 @@ print("Nombre completo:", nombre)
 print("Edad:", edad)
 print("¿Que carrera estudia?:", estudias)
 
-# 4. Mostrar el tipo de cada variable
-print("\n--- Tipos de Datos ---")
-print("Tipo de nombre:", type(nombre))
-print("Tipo de edad:", type(edad))
-print("¿Que carrera estudia?:", estudias)
